@@ -64,6 +64,8 @@ body {
 .sidebar:hover {
     width: 210px;
     min-width: 210px;
+    border-right: 1px solid #D4D4D4;
+    border-radius: 5px;
     /* height: 100%; */
 }
 /* li{
