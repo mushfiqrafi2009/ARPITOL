@@ -1,0 +1,42 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #1a232b;
+  color: #D4D4D4;
+  font-family: 'Times New Roman', Times, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+}
+.ribon{
+    background-color:black;
+    height: 50px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom: 1px solid #D4D4D4;
+}
+.omaigod {
+    height: 100%;
+    display: flex;
+    overflow: auto;
+    flex-direction: column;
+}
+/* 
+.footer{
+    margin-top: 50px;
+    background-color: transparent;
+    color:gray;
+    text-align: center;
+    font-size: 10px;
+} */
+.ribon2{
+    background-color:black;
+    height: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: 1px solid #D4D4D4;
+}
